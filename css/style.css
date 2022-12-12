@@ -1,0 +1,22 @@
+body {
+  margin: 0 auto;
+  display: block;
+  background-color: blanchedalmond;
+}
+h1,
+h2 {
+  text-align: center;
+}
+.links {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 20px;
+}
+p {
+  margin: 10px;
+}
+img {
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
